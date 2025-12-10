@@ -1,5 +1,11 @@
 # Samba Enterprise Lab
 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Category](https://img.shields.io/badge/Category-Enterprise%20File%20Sharing-blue)
+![Samba](https://img.shields.io/badge/Samba-AD%20%7C%20Permissions%20Control-yellow)
+![MultiVM](https://img.shields.io/badge/Environment-Multi--VM-blueviolet)
+![RealWorld](https://img.shields.io/badge/Scenario-Enterprise%20Ready-critical)
+
 This repository contains a complete two-part Samba lab designed to simulate how a small company would deploy and manage shared folders on a Linux server.  
 It includes both a **manual Samba setup** and a fully **automated deployment** using shell scripts.
 
